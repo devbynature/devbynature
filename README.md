@@ -7,8 +7,8 @@
 
 ----
 ### ∞ Contributions
-- [Sentry - sentry-python](https://github.com/getsentry/sentry-python) [![](https://img.shields.io/badge/Sentry-orange?style=plastic&logo=sentry)](#)
-- [Apache - hamilton](https://github.com/apache/hamilton) [![](https://img.shields.io/badge/Hamilton-red?style=plastic&logo=apache)](#)
+- [Sentry - sentry-python](https://github.com/getsentry/sentry-python) [![](https://img.shields.io/badge/Sentry-orange?style=plastic&logo=sentry)](https://github.com/getsentry/sentry-python)
+- [Apache - hamilton](https://github.com/apache/hamilton) [![](https://img.shields.io/badge/Hamilton-red?style=plastic&logo=apache)](https://github.com/apache/hamilton)
 
 ![](https://github-contributor-stats.vercel.app/api?username=gophersen&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
