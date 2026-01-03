@@ -14,7 +14,7 @@
 
 ----
 ### {} My open-source projects
-- [djson-form](https://github.com/apache/hamilton) [![](https://img.shields.io/badge/PyPI-yellow?style=plastic&logo=pypi)](https://pypi.org/project/djson-form/) Django jsonschema form builder.
+- [django-keycloak-oidc](https://github.com/karnameh-tech/django-keycloak-oidc) [![](https://img.shields.io/badge/PyPI-yellow?style=plastic&logo=pypi)](https://pypi.org/project/django-keycloak-oidc/) Django app to map keycloak roles to permissions and groups.
 - [URL-shortener](https://github.com/devbynature/url-shortener) with high performance.
 - Robotic arm: [MeArm](https://github.com/devbynature/MeArm)
 
